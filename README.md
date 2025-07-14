@@ -1,2 +1,1 @@
-# Cejocik
-Cejocik: PRPG
+# Cejocik: PRPG
